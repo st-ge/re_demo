@@ -104,7 +104,7 @@ Das Recht an den Kommunalwahlen in anderen EU-Ländern teilzunehmen, wenn man do
 [[ ]]Nein.
 [[ ]]Ja, aber nur in bestimmten Berufen.
 [[ ]]Ja, wenn ich eine Arbeitserlaubnis beantrage.
-[[ ]]Ja, in der EU gilt Arbeitnehmerfreizügigkeit. 
+[[x]]Ja, in der EU gilt Arbeitnehmerfreizügigkeit. 
 *************
 Die Arbeitnehmerfreizügigkeit garantiert EU-Bürgerinnen und Bürgern in den anderen EU-Ländern mit den gleichen Rechten wie die Bevölkerung dort eine Arbeit suchen und ausüben zu dürfen.
 *************
@@ -206,7 +206,7 @@ In der Europäischen Union sind 27 europäische Länder gemeinsam. Sie helfen si
 5. Wie heißt die Hauptstadt von Tschechien?
 [[x]]Prag
 [[ ]]Warschau
-[[ ]]Brünnn 
+[[ ]]Brünn
 
 ----
 
@@ -571,7 +571,7 @@ Lužická srbština je stejně jako čeština západoslovanský jazyk.
 9.   Která budova stojí z poloviny na českém a z poloviny na německém území?
 [[x]]Nádraží Bayerisch Eisenstein / Železná Ruda-Alžbětín
 [[ ]]Knihovna v Zinnwaldu/Cinovci
-[[ ]]Radnice v Ašu/Selbu
+[[ ]]Radnice v Aši/Selbu
 **************
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 *Pohled na budovu nádraží z české strany *
@@ -698,7 +698,7 @@ Právo účastnit se komunálních voleb v jiných zemích EU, pokud tam má čl
 
 4. Co mají společného Česko a východní Německo?
 [[ ]]Oba regiony/státy vstoupily do Evropské unie ve stejnou dobu.
-[[ ]]velmi podobný školský systém, protože v obou zemích/regionech sahají jeho kořeny až do habsburské monarchie.
+[[ ]]Mají velmi podobný školský systém, protože v obou zemích/regionech sahají jeho kořeny až do habsburské monarchie.
 [[x]]NDR i Československo byly socialistickými diktaturami a v roce 1989 prošly mírovými revolucemi.
 
 ---
@@ -744,7 +744,7 @@ Lužická srbština je stejně jako čeština západoslovanský jazyk.
 10.    Která budova stojí z poloviny na českém a z poloviny na německém území?
 [[x]]Nádraží Bayerisch Eisenstein / Železná Ruda-Alžbětín
 [[ ]]Knihovna v Zinnwaldu/Cinovci
-[[ ]]Radnice v Ašu/Selbu
+[[ ]]Radnice v Aši/Selbu
 **************
 ![image](https://upload.wikimedia.org/wikipedia/commons/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 *Pohled na budovu nádraží z české strany *
