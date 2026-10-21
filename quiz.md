@@ -1,16 +1,11 @@
-
 <!--
-link: https://raw.githubusercontent.com/st-ge/re_demo_logos/refs/heads/main/redemo.css
+link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 -->
 
-
-  
-
-
 # re:demo - Dialog fördern und Gemeinschaft stärken/Podpora dialogu a posílení komunity
-**Quiz**
+**Quiz** 
 
-![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo_logos/7491963/interreg.jpg)
+![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
 
 ## Erwachsene
