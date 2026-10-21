@@ -7,6 +7,17 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
+**Deutschland, Tschechien und Europa – Testen Sie Ihr Wissen!**
+
+Was verbindet Deutschland und Tschechien? Welche Rolle spielt die Europäische Union? Und wie gut kennen Sie sich mit Politik, Geschichte und Gesellschaft unseres Nachbarlandes aus?
+
+Finden Sie es heraus und testen Sie Ihr Wissen!
+
+Das Quiz ist Teil des deutsch-tschechischen Projekts „re:demo – Dialog fördern und Gemeinschaft stärken / Podpora dialogu a posílení komunity“. Gemeinsam setzen sich die Technische Universität Dresden, die Jan-Evangelista-Purkyně-Universität in Ústí nad Labem, die Aktion Zivilcourage e. V. und die Euroregion Krušnohoří dafür ein, den grenzüberschreitenden Austausch, das gegenseitige Verständnis und die Demokratie im deutsch-tschechischen Grenzraum zu stärken.
+
+Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027 kofinanziert.
+
+Viel Spaß beim Mitmachen und Entdecken!
 
 ## Erwachsene
 ----
