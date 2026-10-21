@@ -3,10 +3,12 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 -->
 
 # re:demo - Dialog fördern und Gemeinschaft stärken/Podpora dialogu a posílení komunity
-**Quiz** 
+**Kvíz** 
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
+
+![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
 
 ## Dospělí
 1. Které z těchto slov není v češtině germanismem?
