@@ -7,7 +7,6 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
-<!-- style="text-align: center;" -->
 **Deutschland, Tschechien und Europa – Testen Sie Ihr Wissen!**
 
 Was verbindet Deutschland und Tschechien? Welche Rolle spielt die Europäische Union? Und wie gut kennen Sie sich mit Politik, Geschichte und Gesellschaft unseres Nachbarlandes aus?
