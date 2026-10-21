@@ -19,6 +19,13 @@ Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027
 
 *Viel Spaß beim Rätseln, Mitmachen und Entdecken!*
 
+
+**Konzeption**: Jana Wagner (Aktion Zivilcourage e. V.)
+
+
+![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
+
 ## Klassenstufe 10 Gymnasien
 **Herausforderungen für Europa in einer globalen Welt bzw. Gestalten einer Zukunftsvision für ein vereintes Europa (Wahlbereich)**
 
