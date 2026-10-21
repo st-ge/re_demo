@@ -3,10 +3,11 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 -->
 
 # re:demo - Dialog fördern und Gemeinschaft stärken/Podpora dialogu a posílení komunity
-**Quiz** 
+**Kvíz** 
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
+![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" --> 
 
 ## Gymnazium 
 **MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák objasní důvody evropské integrace, posoudí její význam pro vývoj Evropy, rozlišuje funkce orgánů EU a uvede příklady jejich činnosti, posoudí vliv začlenění státu do Evropské unie na každodenní život občanů, uvede příklady, jak mohou fyzické a právnické osoby v rámci EU uplatňovat svá práva**
