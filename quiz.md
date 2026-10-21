@@ -410,7 +410,7 @@ Das Recht an den Kommunalwahlen in anderen EU-Ländern teilzunehmen, wenn man do
 
 
 ## Gymnazium 
-**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák objasní důvody evropské integrace, posoudí její význam pro vývoj Evropy, rozlišuje funkce orgánů EU a uvede příklady jejich činnosti, posoudí vliv začlenění státu do Evropské unie na každodenní život občanů, uvede příklady, jak mohou fyzické a právnické osoby v rámci EU uplatňovat svá práva
+**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák objasní důvody evropské integrace, posoudí její význam pro vývoj Evropy, rozlišuje funkce orgánů EU a uvede příklady jejich činnosti, posoudí vliv začlenění státu do Evropské unie na každodenní život občanů, uvede příklady, jak mohou fyzické a právnické osoby v rámci EU uplatňovat svá práva**
 
 1. Kann ich als Tscheche/Tschechin einfach so nach Deutschland fahren – und umgekehrt?
 [[ ]]Ja, dafür brauche ich nichts Besonderes.
@@ -586,7 +586,7 @@ Lužická srbština je stejně jako čeština západoslovanský jazyk.
 [[ ]]Přibližně 997 km. Pro obě země je to nejdelší hranice s jiným státem.
 
 ## Zakladni skola obcanska vychova 
-**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák VO-9-5-01 popíše vliv začlenění ČR do EU na každodenní život občanů, uvede příklady práv občanů ČR v rámci EU i možných způsobů jejich uplatňování
+**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák VO-9-5-01 popíše vliv začlenění ČR do EU na každodenní život občanů, uvede příklady práv občanů ČR v rámci EU i možných způsobů jejich uplatňování**
 
 1. Mohu jako Čech/Česka prostě takhle odjet do Německa?
 [[ ]]Ano, k tomu nic zvláštního nepotřebuji.
@@ -665,7 +665,7 @@ Právo účastnit se komunálních voleb v jiných zemích EU, pokud tam má čl
 [[x]]Labe
 
 ## Gymnazium 
-**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák objasní důvody evropské integrace, posoudí její význam pro vývoj Evropy, rozlišuje funkce orgánů EU a uvede příklady jejich činnosti, posoudí vliv začlenění státu do Evropské unie na každodenní život občanů, uvede příklady, jak mohou fyzické a právnické osoby v rámci EU uplatňovat svá práva
+**MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák objasní důvody evropské integrace, posoudí její význam pro vývoj Evropy, rozlišuje funkce orgánů EU a uvede příklady jejich činnosti, posoudí vliv začlenění státu do Evropské unie na každodenní život občanů, uvede příklady, jak mohou fyzické a právnické osoby v rámci EU uplatňovat svá práva**
 
 1. Mohu jako Čech/Česka prostě takhle odjet do Německa?
 [[ ]]Ano, k tomu nic zvláštního nepotřebuji.
