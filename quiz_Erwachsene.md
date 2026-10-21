@@ -20,7 +20,9 @@ Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027
 
 Viel Spaß beim Mitmachen und Entdecken!
 
-![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 200px;" -->
+
+![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
 
 
 ## Erwachsene
