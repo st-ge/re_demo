@@ -3,9 +3,11 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 -->
 
 # re:demo - Dialog fördern und Gemeinschaft stärken/Podpora dialogu a posílení komunity
-**Quiz** 
+**Kvíz**  
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
+
+![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" --> 
 
 ## Zakladni skola obcanska vychova 
 **MEZINÁRODNÍ VZTAHY, GLOBÁLNÍ SVĚT žák VO-9-5-01 popíše vliv začlenění ČR do EU na každodenní život občanů, uvede příklady práv občanů ČR v rámci EU i možných způsobů jejich uplatňování**
