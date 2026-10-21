@@ -22,7 +22,7 @@ Viel Spaß beim Mitmachen und Entdecken!
 **Konzeption**: Jana Wagner (Aktion Zivilcourage e. V.)
 
 
-![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
 
 
 
