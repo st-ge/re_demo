@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --color-highlight: 254, 1, 154;
+  --color-highlight-menu: 254, 1, 154;
+}
+
+body,
+.lia-slide,
+.lia-content,
+.lia-toc,
+.lia-quiz,
+button,
+input {
+  font-family: 'Noto Sans', sans-serif !important;
+}
+
+/* Türkisen Navigationsbereich pink färben */
+.lia-toc,
+.lia-toc__header {
+  background-color: #FE019A !important;
+}
