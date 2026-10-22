@@ -1,4 +1,4 @@
-<!--
+A<!--
 link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 -->
 
@@ -23,7 +23,11 @@ Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027
 
 **Konzeption**: Jana Wagner (Aktion Zivilcourage e. V.)
 
-![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
+![re:demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)
+
+<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
 
 
 
