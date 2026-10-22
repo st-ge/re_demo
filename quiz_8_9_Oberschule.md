@@ -23,6 +23,8 @@ Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027
 
 **Konzeption**: Jana Wagner (Aktion Zivilcourage e. V.)
 
+![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
 ## Klassenstufe 8/9 Oberschule
 **Leben in einer Welt bzw. Wahlbereich Sachsen und die Europäische Union**
 
@@ -103,4 +105,4 @@ Das Recht an den Kommunalwahlen in anderen EU-Ländern teilzunehmen, wenn man do
 [[ ]]Der Rhein
 [[ ]]Die Donau
 [[x]]Die Elbe
-![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
+
