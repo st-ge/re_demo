@@ -7,6 +7,20 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
+Německo, Česká republika a Evropa – Otestujte si své znalosti!
+
+Co spojuje Německo a Českou republiku? Jakou roli hraje Evropská unie? A jak dobře znáte politiku, historii a společnost naší sousední země?
+
+Zjistěte si to a otestujte si své znalosti!
+
+Tento kvíz je součástí německo-českého projektu „re:demo – Podpora dialogu a posílení komunity / Podpora dialogu a posílení komunity“. Technická univerzita v Drážďanech, Univerzita Jana Evangelisty Purkyně v Ústí nad Labem, Aktion Zivilcourage e. V. a Euroregion Krušnohoří spolupracují na posílení přeshraniční výměny, vzájemného porozumění a demokracie v německo-českém pohraničí.
+
+Projekt je spolufinancován programem EU Interreg Sasko-Česká republika 2021–2027.
+
+Přejeme Vám hodně zábavy při hádání a objevování!
+
+Koncept: Jana Wagner (Aktion Zivilcourage e. V.)
+
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
 
