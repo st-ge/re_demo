@@ -26,6 +26,7 @@ Das Projekt wird durch das EU-Programm Interreg Sachsen–Tschechien 2021–2027
 ![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" -->
 
 
+
 ## Klassenstufe 8/9 Oberschule
 **Leben in einer Welt bzw. Wahlbereich Sachsen und die Europäische Union**
 
