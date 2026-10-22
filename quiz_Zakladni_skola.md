@@ -7,6 +7,20 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
+**Německo, Česká republika a Evropa – Otestujte si své znalosti!**
+
+Co spojuje Německo a Českou republiku? Jakou roli hraje Evropská unie? A jak dobře znáte historii, politiku a společnost naší sousední země?
+
+Zjistěte si to a otestujte si své znalosti!
+
+Tento kvíz je součástí německo-českého projektu „re – Podpora dialogu a posílení komunity / Podpora dialogu a posílení komunity“. Technická univerzita v Drážďanech, Univerzita Jana Evangelisty Purkyně v Ústí nad Labem, Aktion Zivilcourage e. V. a Euroregion Krušnohoří spolupracují na propojení lidí z Německa a České republiky, podpoře dialogu, lepším vzájemném poznávání a posílení demokracie v pohraničním regionu.
+
+Projekt je finančně podpořen programem EU Interreg Sasko-Česká republika 2021–2027.
+
+*Přejeme vám hodně zábavy při hádání a objevování!"*
+
+**Koncept:** Jana Wagner (Aktion Zivilcourage e. V.)
+
 ![re_demo-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/re_demo.png)<!-- style="width: 100px; display: block; margin: 15px auto;" --> 
 
 ## Zakladni skola obcanska vychova 
