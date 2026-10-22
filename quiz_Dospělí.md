@@ -7,7 +7,7 @@ link: https://raw.githubusercontent.com/st-ge/re_demo/main/redemo.css
 
 ![Interreg-Logo](https://raw.githubusercontent.com/st-ge/re_demo/main/interreg.jpg)
 
-Německo, Česká republika a Evropa – Otestujte si své znalosti!
+**Německo, Česká republika a Evropa – Otestujte si své znalosti!**
 
 Co spojuje Německo a Českou republiku? Jakou roli hraje Evropská unie? A jak dobře znáte politiku, historii a společnost naší sousední země?
 
